@@ -7,6 +7,11 @@ Public release assets and update metadata for HouTools applications.
 - **BanaLedger**: personal finance tracking for Windows and Android.
 - **HouKi**: local-first knowledge management for Windows, Linux, Web/PWA, and Android.
 
+## Latest Releases
+
+- **BanaLedger v1.12.0**: [Windows x64 and Android arm64 downloads](https://github.com/c9mH/HouTools-Releases/releases/tag/banaledger-v1.12.0)
+- **HouKi v0.1.0**: [release downloads](https://github.com/c9mH/HouTools-Releases/releases/tag/houki-v0.1.0)
+
 ## Release Naming
 
 | Product | Release tag | Asset prefix |
