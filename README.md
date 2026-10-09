@@ -10,7 +10,7 @@ Public release assets and update metadata for HouTools applications.
 
 ## Latest Releases
 
-- **BanaLedger v1.12.2**: [Windows x64 and Android arm64 downloads](https://github.com/c9mH/HouTools-Releases/releases/tag/banaledger-v1.12.2)
+- **BanaLedger v1.15.1**: [Windows x64 and Android arm64 downloads](https://github.com/c9mH/HouTools-Releases/releases/tag/banaledger-v1.15.1)
 - **HouKi v1.0.0**: [Windows x64 and Android arm64 downloads](https://github.com/c9mH/HouTools-Releases/releases/tag/houki-v1.0.0)
 - **HouToolBox v0.6.0**: [Windows x64 and Android arm64 downloads](https://github.com/c9mH/HouTools-Releases/releases/tag/houtoolbox-v0.6.0)
 
